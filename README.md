@@ -32,6 +32,63 @@ I am an epidemiology PhD student working at the intersection of **environmental 
 
 I am particularly interested in translating complex exposure data into clear, reproducible epidemiologic evidence.
 
+## Titles unlocked
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🏅 The Awarded Scholar</h3>
+      <sub>National Scholarship recipient</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎓 The Outstanding Graduate</h3>
+      <sub>Recognized for academic excellence</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>📊 LogitLegendary</h3>
+      <sub>Research notes, videos, and stories across three platforms</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>⚙️ The Workflow Alchemist</h3>
+      <sub>Turning repetitive research tasks into R workflows</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🪟 The Desktop Architect</h3>
+      <sub>Windows customization and productivity-tool enthusiast</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎬 The Research Storyteller</h3>
+      <sub>Translating methods and PhD life into approachable content</sub>
+    </td>
+  </tr>
+</table>
+
+
+<details>
+<summary><b>🎮 Open my side-quest log</b></summary>
+
+
+<br>
+
+- 🤝 **Community Quest Volunteer** — Nursing-home service and former outreach volunteering
+- 🩸 **The Interrupted Donor** — The blood-donation side quest did not go according to plan
+- 🏔️ **Five Peaks Challenger** — Challenge in progress; the summit log is not complete yet
+- 🏀 **Multi-Sport Casual** — Basketball · Swimming · Badminton, strictly in the amateur league
+- 🛵 **E-Bike Grandmaster** — Urban mobility, expertly optimized
+- 📝 **Sentence-Level Sensitivity Analyst** — Capable of revising one sentence until the estimate stabilizes
+
+**Quest progress**
+
+- [x] Receive a National Scholarship
+- [x] Graduate with distinction
+- [x] Build the LogitLegendary identity across RPubs, Bilibili, and Zhihu
+- [ ] Complete the Five Great Mountains challenge
+- [ ] Name a manuscript file `final.docx` only once
+
+</details>
+
 ## Research at a glance
 
 | Research area                    | Current interests                                            |
@@ -97,6 +154,6 @@ The best way to reach me is here on GitHub. Feel free to explore my repositories
 <div align="center">
 
 
-<sub>From environmental exposure data to clear, reproducible epidemiologic evidence.</sub>
+<sub>From environmental exposure data to clear evidence—with a few side quests along the way.</sub>
 
 </div>
